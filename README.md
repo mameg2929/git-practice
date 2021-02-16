@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 更新
-mainで変更
+rebase-practiceで変更 2
